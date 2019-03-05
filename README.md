@@ -15,7 +15,7 @@ Seq2Seq workshop materials
 
 1. Create a conda environment:
    ```
-   conda env create -n metaphors python=3.6
+   conda env create -n seq2seq python=3.6
    ```
 2. Install dependencies
    ```  
