@@ -34,5 +34,5 @@ Seq2Seq workshop materials
    
 # Data
 
-[English-Japanese Translation Corpus](ftp://ftp.monash.edu/pub/nihongo/examples.utf.gz)
-[COCO Image Captioning Dataset](http://cocodataset.org/#download) (2014 train/val set)
+- English-Japanese Translation Corpus: (ftp://ftp.monash.edu/pub/nihongo/examples.utf.gz) 
+- [COCO Image Captioning Dataset](http://cocodataset.org/#download) (2014 train/val set)
