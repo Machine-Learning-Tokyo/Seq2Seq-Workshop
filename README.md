@@ -1,7 +1,17 @@
 # Seq2Seq-Workshop
 Seq2Seq workshop materials
 
+Presentation slides:
 
+[NLP Basics](https://docs.google.com/presentation/d/1d66kraQablpfIPWLFo9_R_f2HB4_5uW8z0bvvUhsH_U/edit#slide=id.g54b76756f0_0_5601)
+
+[Intro to Sequence to Sequence Learning](https://docs.google.com/presentation/d/1Zz1VzDHhRiF-QGyn_v7fHTSyoEOK7CH4nq2YpyZpVaY/edit?usp=sharing)
+
+<p align="left">
+  <img src="https://github.com/Machine-Learning-Tokyo/Seq2Seq-Workshop/blob/master/seq2seq.png" width="700">
+</p>
+  
+  
 # Dependencies
 
 * Python 3.6
